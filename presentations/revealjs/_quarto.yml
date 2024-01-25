@@ -1,0 +1,18 @@
+title: My title
+subtitle: My subtitle
+author: 
+  - name: My name
+    affiliation: My affiliation
+    email: myemail@univ.com
+
+format: 
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: true
+
+
+# Add the spotlight extension with: 
+# quarto add mcanouil/quarto-spotlight
+revealjs-plugins:
+  - spotlight

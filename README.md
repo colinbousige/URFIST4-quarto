@@ -17,7 +17,7 @@ Lien vers le contenu complet du cours : https://colinbousige.github.io/rclass/
 ## Objectifs
 
 - Chaque participant repart avec son site web fait avec Quarto publié sur GitHub
-- Maitriser les documents Quarto pour :
+- Maîtriser les documents Quarto pour :
   - L'écriture scientifique (avec formules, figures, tableaux et références) vers tous types de formats (pdf, docx, pptx, html)
   - Faire des rapports automatiques
   - Faire un cours/TD en pdf/doc ou en ligne (exemple de site fait avec Quarto : [le site du cours](https://colinbousige.github.io/rclass/))
@@ -28,7 +28,7 @@ Lien vers le contenu complet du cours : https://colinbousige.github.io/rclass/
 - Créer un fichier qmd, travailler avec, puis le compiler vers différents formats classiques : pdf, doc, html
 - Maîtriser les options du header YAML pour personnaliser l'output
 - Utilisation des templates
-- Inclure du code (R, Python, Julia ou autre) pour lire des données, les traiter et afficher des graphes ou des tableaux. 
+- Inclure du code (R, Python, Julia ou autre) pour lire des données, les traiter et afficher des graphes ou des tableaux.
 - Personnaliser les paramètres d'affichage des blocs de code
 - Insérer une figure externe, un tableau, une formule, des références internes ou vers une bibliographie
 - Utilisation des paramètres
@@ -42,3 +42,8 @@ Pas de domaine scientifique spécifique attendu : ce qui est vu dans ce cours es
 ## Type d'intervention
 
 Cours et travaux pratiques. [Le contenu du cours est en ligne](https://colinbousige.github.io/rclass/).
+
+## Références
+
+- [Quarto documentation](https://quarto.org/docs/guide/)
+- [Quarto extensions](https://quarto.org/docs/extensions/)

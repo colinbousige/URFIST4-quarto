@@ -1,0 +1,8 @@
+title: My title
+subtitle: My subtitle
+author: My name
+institute: My institute
+format: 
+  beamer:
+    theme: CambridgeUS
+    colortheme: seahorse
