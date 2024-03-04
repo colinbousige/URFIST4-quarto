@@ -1,0 +1,25 @@
+---
+title: A scientific article
+authors:
+  - name: Norah Jones
+    affiliation: University of Somewhere
+    orcid: 0000-0000-0000-0000
+    roles: 
+        - Writing
+        - Doing the study
+    corresponding: true
+    email: norah@johns.com
+  - name: John Bob
+    affiliation: University of Somewhere Else
+    orcid: 0000-0010-0001-0001
+    roles: 
+        - Money related stuff
+    corresponding: true
+bibliography: references.bib
+---
+
+## Section
+
+This is a simple placeholder for the manuscript's main document [@knuth84].
+
+You can see the help [here](https://quarto.org/docs/manuscripts/authoring/vscode.html).

@@ -1,0 +1,22 @@
+project:
+  type: manuscript
+
+manuscript:
+  article: myarticle.qmd
+
+format:
+  html:
+    comments:
+      hypothesis: true
+    self-contained: true
+  docx: default
+  acs-pdf:
+    keep-tex: true
+    citation-style: acs-nano
+  # pdf: default
+
+execute:
+  freeze: true
+
+
+

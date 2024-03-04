@@ -1,0 +1,31 @@
+---
+title: "This is a plain markdown document"
+format: 
+    html:
+        toc: true
+        number-sections: true
+        theme: united
+        highlight: tango
+        self-contained: true
+    pdf:
+        toc: true
+        number-sections: true
+        colorlinks: true
+    docx:
+        toc: true
+        number-sections: true
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Blah
+
+Blah blah blah
+
+### Blah Blah
+
+Blah blah blah
+
+### Blah Blah Blah

@@ -23,14 +23,14 @@ alpha = r.alpha
 
 ## Exercise 1
 
-Here is a distribution of width $\alpha=$ `r alpha` defined with `python`. Now do your stuff.
+Here is a distribution of width $\alpha=$ `{r} alpha` defined with `python`. Now do your stuff.
 
 ```{python}
 distribution = np.random.normal(0, alpha, 10)
 print(distribution)
 ```
 
-And here we define it with `R`:
+And here we define it with `{R}`:
 
 ```{r}
 rdistribution <- rnorm(10, mean=0, sd=alpha)
@@ -42,7 +42,7 @@ rdistribution
 
 ### Solution
 
-Here is the solution with some maths : $\alpha=$ `r alpha`, and some code and graphs:
+Here is the solution with some maths : $\alpha=$ `{r} alpha`, and some code and graphs:
 
 ```{python}
 plt.hist(distribution)
