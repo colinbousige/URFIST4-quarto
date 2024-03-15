@@ -1,4 +1,7 @@
 #!/bin/bash
 
 # Render the book
-quarto render index.qmd 
+quarto render
+
+# preview just a page
+# quarto preview intro.qmd 

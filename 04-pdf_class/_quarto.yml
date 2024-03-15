@@ -137,7 +137,7 @@ format:
           \titlespacing*{\subsubsection}{0ex}{2.5ex}{1ex}
           \titlespacing*{\paragraph}{0ex}{2.5ex}{1ex}
 
-bibliography: "/Users/colin/Dropbox/Biblio/biblio.bib"
+bibliography: "/Users/colin/Travail/Biblio/biblio.bib"
 
 knitr:
   opts_chunk:
